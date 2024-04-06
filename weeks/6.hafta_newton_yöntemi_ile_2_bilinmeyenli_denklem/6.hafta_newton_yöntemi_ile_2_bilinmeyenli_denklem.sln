@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "6.hafta_newton_yöntemi_ile_2_bilinmeyenli_denklem", "6.hafta_newton_yöntemi_ile_2_bilinmeyenli_denklem\6.hafta_newton_yöntemi_ile_2_bilinmeyenli_denklem.pyproj", "{89E113D4-1E40-4518-B1C3-65C172261F0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E113D4-1E40-4518-B1C3-65C172261F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E113D4-1E40-4518-B1C3-65C172261F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E9E70B6-1B9B-4016-AB84-B5181481D0F8}
+	EndGlobalSection
+EndGlobal

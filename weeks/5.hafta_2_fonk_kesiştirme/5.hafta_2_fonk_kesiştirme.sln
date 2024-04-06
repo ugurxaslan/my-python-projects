@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "5.hafta_2_fonk_kesiştirme", "5.hafta_2_fonk_kesiştirme\5.hafta_2_fonk_kesiştirme.pyproj", "{1D2052DB-72AF-481B-BBF7-192BAB66211A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D2052DB-72AF-481B-BBF7-192BAB66211A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2052DB-72AF-481B-BBF7-192BAB66211A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC8813F-CCA9-4EE0-9E51-FC8F46E00074}
+	EndGlobalSection
+EndGlobal
